@@ -1,4 +1,4 @@
-/*name: Gal Girad ID 307901199*/
+
 #include "assembler.h"
 #include "symtable.h"
 
