@@ -1,4 +1,4 @@
-/*name: Gal Girad ID 307901199*/
+
 #ifndef DND_H
 #define DND_H
 
