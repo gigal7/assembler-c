@@ -1,4 +1,4 @@
-/*name: Gal Girad ID 307901199*/
+
 #ifndef SYMTABLE_H
 #define SYMTABLE_H
 
