@@ -1,4 +1,4 @@
-#Gal Girad ID 307901199
+
 all: assembler
 
 assembler: assembler.c parsing.c symtable.c symtable.h defs.h assembler.h Makefile util.c
