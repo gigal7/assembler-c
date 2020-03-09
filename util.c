@@ -1,4 +1,4 @@
-/*name: Gal Girad ID 307901199*/
+
 #include "defs.h"
 #include "assembler.h"
 
